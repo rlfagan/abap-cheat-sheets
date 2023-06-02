@@ -24,6 +24,7 @@
 <br>
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-cheat-sheets)](https://api.reuse.software/info/github.com/SAP-samples/abap-cheat-sheets)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fabap-cheat-sheets.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fabap-cheat-sheets?ref=badge_shield)
 
 ABAP cheat sheets[^1] ...
 - provide a **collection of information on selected ABAP topics** in a nutshell for your reference.
@@ -222,3 +223,5 @@ This is not intended to be a contribution repository, so please do not create pu
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
 
 [^1]: "A written [...] aid (such as a sheet of notes) that can be referred to for help in understanding or remembering something complex" (Definition for "cheat sheet" in Merriam-Webster Dictionary).
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fabap-cheat-sheets.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fabap-cheat-sheets?ref=badge_large)
